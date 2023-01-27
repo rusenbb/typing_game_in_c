@@ -6,4 +6,4 @@
 ##### one can use escacpe (esc) keyword to reach to the menu to save, load, restart or exit the game
 ##### have fun !!!
 
-####### This project is the result of a homework/project that was given at I.T.U (Istanbul Technical University)
+###### This project is the result of a homework/project that was given at I.T.U (Istanbul Technical University)
