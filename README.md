@@ -1,7 +1,8 @@
-# typing_game_in_c
+# Code-Word Typing Game In C
 
 ##### a small typing game (terminal/console based) written in c
-##### you can directly use the .exe fiel or build it from scratch using a c compiler
+##### you can directly use the .exe file or build it from scratch using a c compiler
+#### The Game
 ##### game is simple: type the code-word that appears on the bomb before it reaches to the city
 ##### one can use escacpe (esc) keyword to reach to the menu to save, load, restart or exit the game
 ##### have fun !!!
